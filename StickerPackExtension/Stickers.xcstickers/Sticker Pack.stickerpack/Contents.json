@@ -1,4 +1,51 @@
 {
+  "stickers" : [
+    {
+      "filename" : "001-jumping-man.sticker"
+    },
+    {
+      "filename" : "002-industrial-action.sticker"
+    },
+    {
+      "filename" : "003-holding-hands.sticker"
+    },
+    {
+      "filename" : "004-happy-man.sticker"
+    },
+    {
+      "filename" : "005-exercising-woman.sticker"
+    },
+    {
+      "filename" : "006-man-and-recycling-bin.sticker"
+    },
+    {
+      "filename" : "007-man-jumping-rope.sticker"
+    },
+    {
+      "filename" : "008-man-jumping-with-arms-raised.sticker"
+    },
+    {
+      "filename" : "009-man-and-woman-cheers.sticker"
+    },
+    {
+      "filename" : "010-new-product-sticker.sticker"
+    },
+    {
+      "filename" : "011-small-girl.sticker"
+    },
+    {
+      "filename" : "012-boy.sticker"
+    },
+    {
+      "filename" : "013-girl.sticker"
+    },
+    {
+      "filename" : "computer.sticker"
+    },
+    {
+      "filename" : "download.sticker"
+    }
+  ],
   "info" : {
     "version" : 1,
     "author" : "xcode"
